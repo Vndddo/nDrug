@@ -73,6 +73,6 @@ mkdir input output
 ```
 
 Then place:
-- compound CSV file in `input/`
+- updated compound CSV file downloaded from COCONUT database (https://zenodo.org/records/13692394) in `input/`
 - SwissTargetPrediction results in `input/predictions/`
 - TTD `.txt` file in `input/`
